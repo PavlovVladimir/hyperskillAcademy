@@ -1,0 +1,2 @@
+< person  rate = "1" name = "Torvalds" /> <employee department = "manager">Garry Smith</employee> <jdk>1.8.9</jdk> <success/> <storage/>
+<host>127.0.0.1</host> <request id="45692334" date = "2018-12-13"/> <auth login = "auth_login" sign = "auth_sign" /> <employee department = "manager">Garry Smith</employee>

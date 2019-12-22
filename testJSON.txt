@@ -1,0 +1,19 @@
+{ "storage" : null }{"success": null }{"jdk" : "1.8.9"}{"host":"127.0.0.1"}{
+    "person" : {
+        "@rate" : 1,
+        "@name" : "Torvalds",
+        "#person" : null
+    }
+}{
+    "employee" : {
+        "@department" : "manager",
+        "#employee" : "Garry Smith"
+    }
+}{
+    "element_name" :
+    {
+        "@attribute1" : "attribute1_value",
+        "@attributeN" : "attributeN_value",
+        "#element" : "content"
+    }
+}

@@ -2,6 +2,20 @@ package com.hyperskilldev;
 
 import java.util.Scanner;
 
+/**
+ * class Patient {
+ *
+ *     String name;
+ *     int age;
+ *     float height;
+ *
+ *     public Patient(String name, int age, float height) {
+ *         this.name = name;
+ *         this.age = age;
+ *         this.height = height;
+ *     }
+ * }
+ */
 public class Main {
 
     public static void main(String[] args) {

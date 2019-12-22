@@ -2,17 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/FirstNCharToEndOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/ParseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/TheLongestword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/json/Json.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/IsArrayContainN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SpiralNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/Xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_91033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/CesarEncryptorDecryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/CezarEncryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/EncryptorByMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/AppIsAClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/XmlTOJson/XmlToJsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/CountingWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FindNearestInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FirstIndexOfSublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FrequencyOfCaharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MapsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MultipleSwaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/ProcessingMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SetUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SetUtils2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SortedInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/TheLongestStringInTheList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/cl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/exeptions/Hierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/exeptions/SeqenceInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/AddFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/AreSiblings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/DeleteAllFilesRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/ReadTheBiggestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/ReadingFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/SumOfIntegersFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/WorldPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/generics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/generics/generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/gettersandsetters/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/gettersandsetters/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/ListIterator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/MaxElementOfCollectionByIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/ReversedListByIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/TemplateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/DoubleCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SimmetricalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SizeOfParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SymmetricMatryx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/TestLearners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/YearInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/simpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/pseudocode/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/queque/CreatinQueque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/queque/MaxElementOfStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NthPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NumberBySumRefereneSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NumbersBySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/RecursionPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/CheckValidIp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/ExtractingBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/ExtractingWordsFromText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/FindAllPasswords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/Matchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/NumberParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/Regexp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveExtraSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveHtmlTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/VehicleRegistrationNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/DomXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/Xml2Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/variables/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/FixingArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/NameAdding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/Ovreloaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/UserAccountImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testJSON.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testXML.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetbrain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jetbrain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hyperskilldev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +105,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -30,29 +115,27 @@
   </component>
   <component name="ProjectId" id="1S0YVgb6IPZcRBdufGFbli0oSIj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Coffee Machine" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SpiralNumbers">
-    <configuration name="FirstNCharToEndOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.ProcesingStrings.FirstNCharToEndOfString" />
+  <component name="RunManager" selected="Application.TemplateMethodDemo">
+    <configuration name="CesarEncryptorDecryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CesarEncryptorDecryptor" />
       <module name="jetbrain" />
+      <option name="PROGRAM_PARAMETERS" value="-mode enc -key 5 -data &quot;Welcome to hyperskill!&quot;" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.ProcesingStrings.*" />
+          <option name="PATTERN" value="com.hyperskilldev.Encryptor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Json" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.json.Json" />
-      <module name="jetbrain" />
+    <configuration name="CesarEncryptorDecryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CesarEncryptorDecryptor" />
+      <option name="PROGRAM_PARAMETERS" value="-mode enc -key 5 -data &quot;Welcome to hyperskill!&quot;" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.json.*" />
+          <option name="PATTERN" value="com.hyperskilldev.Encryptor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.ProcesingStrings.ParseUrl" />
+    <configuration name="CezarEncryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CezarEncryptor" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.ProcesingStrings.*" />
+          <option name="PATTERN" value="com.hyperskilldev.Encryptor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.problemOfDay.SpiralNumbers" />
+    <configuration name="ReversedListByIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.iterator.ReversedListByIterator" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.problemOfDay.*" />
+          <option name="PATTERN" value="com.hyperskilldev.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheLongestword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.ProcesingStrings.TheLongestword" />
+    <configuration name="SumOfIntegersFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.file.SumOfIntegersFromFile" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.ProcesingStrings.*" />
+          <option name="PATTERN" value="com.hyperskilldev.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,15 +195,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemplateMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.patterns.templateMethod.TemplateMethodDemo" />
+      <module name="jetbrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyperskilldev.patterns.templateMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CesarEncryptorDecryptor" />
+      <item itemvalue="Application.CezarEncryptor" />
+      <item itemvalue="Application.ReversedListByIterator" />
+      <item itemvalue="Application.SumOfIntegersFromFile" />
+      <item itemvalue="Application.TemplateMethodDemo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpiralNumbers" />
-        <item itemvalue="Application.Json" />
-        <item itemvalue="Application.ParseUrl" />
-        <item itemvalue="Application.FirstNCharToEndOfString" />
-        <item itemvalue="Application.TheLongestword" />
+        <item itemvalue="Application.TemplateMethodDemo" />
+        <item itemvalue="Application.SumOfIntegersFromFile" />
+        <item itemvalue="Application.CesarEncryptorDecryptor" />
+        <item itemvalue="Application.CesarEncryptorDecryptor" />
+        <item itemvalue="Application.CezarEncryptor" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -133,6 +248,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570702005256</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new solutions">
+      <created>1572134185021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572134185021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +270,59 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solutions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="22" key="#CesarEncryptorDecryptor_(1)" timestamp="1576875487948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#CesarEncryptorDecryptor_(1)/0.0.1366.728@0.0.1366.728" timestamp="1576875487948" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576875789098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875789098" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576875472336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875472336" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1577045564205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577045564205" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1577027071102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577027071102" />
+    <state x="417" y="125" key="EnvironmentVariablesDialog" timestamp="1576875439997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875439997" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576875427884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576875427884" />
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1577025654840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
+    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1577025654840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
+    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1577025654839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577025654839" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1577025654840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
+    <state x="413" y="119" key="extract.method.dialog" timestamp="1577003152082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1577003152082" />
   </component>
 </project>
