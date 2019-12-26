@@ -2,100 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataset_91033.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/CesarEncryptorDecryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/CezarEncryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Encryptor/EncryptorByMirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/AppIsAClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Methods/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/XmlTOJson/XmlToJsonConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/CountingWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FindNearestInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FirstIndexOfSublist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/FrequencyOfCaharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MapsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MultipleSwaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/ProcessingMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SetUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SetUtils2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SortedInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/SpellChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/TheLongestStringInTheList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/collections/collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/enums/cl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/exeptions/Hierarchy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/exeptions/SeqenceInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/AddFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/AreSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/DeleteAllFilesRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/ReadTheBiggestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/ReadingFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/SumOfIntegersFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/WorldPopulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/file/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/generics/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/generics/generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/gettersandsetters/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/gettersandsetters/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/ListIterator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/MaxElementOfCollectionByIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/iterator/ReversedListByIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/TemplateMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/patterns/templateMethod/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/DoubleCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SimmetricalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SizeOfParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/SymmetricMatryx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/TestLearners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/YearInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/problemOfDay/simpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/pseudocode/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/queque/CreatinQueque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/queque/MaxElementOfStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NthPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NumberBySumRefereneSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/NumbersBySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/recursion/RecursionPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/CheckValidIp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/ExtractingBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/ExtractingWordsFromText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/FindAllPasswords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/Matchers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/NumberParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/Regexp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveExtraSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/RemoveHtmlTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/regexp/VehicleRegistrationNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/DomXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/Xml2Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/universalconverter/converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/variables/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/FixingArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/NameAdding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/Ovreloaded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/UserAccountImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/various/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testJSON.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testXML.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jetbrain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jetbrain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hyperskilldev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hyperskilldev/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TemplateMethodDemo">
+  <component name="RunManager" selected="Application.Classes">
     <configuration name="CesarEncryptorDecryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CesarEncryptorDecryptor" />
       <module name="jetbrain" />
@@ -156,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CezarEncryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CezarEncryptor" />
+    <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.various.Classes" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.Encryptor.*" />
+          <option name="PATTERN" value="com.hyperskilldev.various.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,18 +117,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CesarEncryptorDecryptor" />
-      <item itemvalue="Application.CezarEncryptor" />
       <item itemvalue="Application.ReversedListByIterator" />
       <item itemvalue="Application.SumOfIntegersFromFile" />
       <item itemvalue="Application.TemplateMethodDemo" />
+      <item itemvalue="Application.Classes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Classes" />
         <item itemvalue="Application.TemplateMethodDemo" />
         <item itemvalue="Application.SumOfIntegersFromFile" />
         <item itemvalue="Application.CesarEncryptorDecryptor" />
         <item itemvalue="Application.CesarEncryptorDecryptor" />
-        <item itemvalue="Application.CezarEncryptor" />
       </list>
     </recent_temporary>
   </component>
@@ -304,22 +211,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576875427884" />
-    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1577025654840">
+    <state width="1323" height="72" key="GridCell.Tab.0.bottom" timestamp="1577394864211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
-    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1577025654840">
+    <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
+    <state width="1323" height="72" key="GridCell.Tab.0.center" timestamp="1577394864211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
-    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1577025654839">
+    <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
+    <state width="1323" height="72" key="GridCell.Tab.0.left" timestamp="1577394864211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577025654839" />
-    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1577025654840">
+    <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
+    <state width="1323" height="72" key="GridCell.Tab.0.right" timestamp="1577394864211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577025654840" />
+    <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
     <state x="413" y="119" key="extract.method.dialog" timestamp="1577003152082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
