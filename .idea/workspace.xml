@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/polymorphism/BaseNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jetbrain/META-INF/jetbrain.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/ParseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hyperskilldev/ProcesingStrings/ParseUrl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,28 +32,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Coffee Machine" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Classes">
-    <configuration name="CesarEncryptorDecryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CesarEncryptorDecryptor" />
-      <module name="jetbrain" />
-      <option name="PROGRAM_PARAMETERS" value="-mode enc -key 5 -data &quot;Welcome to hyperskill!&quot;" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.Encryptor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IndividualTaxes">
     <configuration name="CesarEncryptorDecryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.Encryptor.CesarEncryptorDecryptor" />
       <option name="PROGRAM_PARAMETERS" value="-mode enc -key 5 -data &quot;Welcome to hyperskill!&quot;" />
@@ -76,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedListByIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.iterator.ReversedListByIterator" />
+    <configuration name="IndividualTaxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.arrays.IndividualTaxes" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.iterator.*" />
+          <option name="PATTERN" value="com.hyperskilldev.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfIntegersFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.file.SumOfIntegersFromFile" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.polymorphism.Main" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.file.*" />
+          <option name="PATTERN" value="com.hyperskilldev.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.ProcesingStrings.ParseUrl" />
+      <module name="jetbrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyperskilldev.ProcesingStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,18 +122,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.CesarEncryptorDecryptor" />
-      <item itemvalue="Application.ReversedListByIterator" />
-      <item itemvalue="Application.SumOfIntegersFromFile" />
-      <item itemvalue="Application.TemplateMethodDemo" />
       <item itemvalue="Application.Classes" />
+      <item itemvalue="Application.IndividualTaxes" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ParseUrl" />
+      <item itemvalue="Application.TemplateMethodDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndividualTaxes" />
+        <item itemvalue="Application.ParseUrl" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Classes" />
         <item itemvalue="Application.TemplateMethodDemo" />
-        <item itemvalue="Application.SumOfIntegersFromFile" />
-        <item itemvalue="Application.CesarEncryptorDecryptor" />
-        <item itemvalue="Application.CesarEncryptorDecryptor" />
       </list>
     </recent_temporary>
   </component>
@@ -183,50 +189,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new solutions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="22" key="#CesarEncryptorDecryptor_(1)" timestamp="1576875487948">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="400" y="22" key="#CesarEncryptorDecryptor_(1)/0.0.1366.728@0.0.1366.728" timestamp="1576875487948" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576875789098">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875789098" />
-    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576875472336">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875472336" />
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1577045564205">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577045564205" />
+    <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585266682926">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1585266682926" />
     <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1577027071102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577027071102" />
-    <state x="417" y="125" key="EnvironmentVariablesDialog" timestamp="1576875439997">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585266883271">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576875439997" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576875427884">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585266883271" />
+    <state width="1298" height="160" key="GridCell.Tab.0.center" timestamp="1585266883270">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576875427884" />
-    <state width="1323" height="72" key="GridCell.Tab.0.bottom" timestamp="1577394864211">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
+    <state width="1298" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585266883270" />
+    <state width="1298" height="160" key="GridCell.Tab.0.left" timestamp="1585266883270">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
-    <state width="1323" height="72" key="GridCell.Tab.0.center" timestamp="1577394864211">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
+    <state width="1298" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585266883270" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right" timestamp="1585266883270">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
-    <state width="1323" height="72" key="GridCell.Tab.0.left" timestamp="1577394864211">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585266883270" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1585267253636">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
-    <state width="1323" height="72" key="GridCell.Tab.0.right" timestamp="1577394864211">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="183" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1585267253636" />
+    <state x="368" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585521141517">
+      <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577394864211" />
+    <state x="368" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1585521141517" />
     <state x="413" y="119" key="extract.method.dialog" timestamp="1577003152082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
