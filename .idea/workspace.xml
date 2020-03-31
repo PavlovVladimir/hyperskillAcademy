@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/IntBinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CountWords">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ConvertToBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.stream.ConvertToBytes" />
       <module name="jetbrain" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.ProcesingStrings.ParseUrl" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyperskilldev.absractclasses.Main" />
       <module name="jetbrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hyperskilldev.ProcesingStrings.*" />
+          <option name="PATTERN" value="com.hyperskilldev.absractclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,18 +107,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.IndividualTaxes" />
-      <item itemvalue="Application.ParseUrl" />
       <item itemvalue="Application.ConvertToBytes" />
       <item itemvalue="Application.ReverseInputText" />
       <item itemvalue="Application.CountWords" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CountWords" />
         <item itemvalue="Application.ReverseInputText" />
         <item itemvalue="Application.ConvertToBytes" />
         <item itemvalue="Application.IndividualTaxes" />
-        <item itemvalue="Application.ParseUrl" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585671670941</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="abstract classes: IntBinaryOperation solved">
+      <created>1585673153421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585673153421</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,51 +217,52 @@
     <MESSAGE value="Stream: ReverseInputText solved" />
     <MESSAGE value="Stream: CountWords solved" />
     <MESSAGE value="WhichMethodsMustBeOverriding solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="WhichMethodsMustBeOverriding solved" />
+    <MESSAGE value="abstract classes: IntBinaryOperation solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract classes: IntBinaryOperation solved" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585671175838">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585677552532">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577045564205" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.732@0.0.1366.732" timestamp="1585671175838" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.732@0.0.1366.732" timestamp="1585677552532" />
     <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585266682926">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1585266682926" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585671670816">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585673153328">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577027071102" />
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585671670816" />
-    <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585669069776">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585673153328" />
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585678582062">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585669069776" />
-    <state width="1298" height="160" key="GridCell.Tab.0.center" timestamp="1585669069775">
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585678582062" />
+    <state width="1298" height="160" key="GridCell.Tab.0.center" timestamp="1585678582061">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585669069775" />
-    <state width="1298" height="160" key="GridCell.Tab.0.left" timestamp="1585669069775">
+    <state width="1298" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585678582061" />
+    <state width="1298" height="160" key="GridCell.Tab.0.left" timestamp="1585678582061">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585669069775" />
-    <state width="1298" height="160" key="GridCell.Tab.0.right" timestamp="1585669069775">
+    <state width="1298" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585678582061" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right" timestamp="1585678582062">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585669069775" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585678582062" />
     <state x="183" y="0" key="SettingsEditor" timestamp="1585267253636">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="183" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1585267253636" />
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585671676503">
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585673158902">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585671676503" />
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585673158902" />
     <state x="368" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585521141517">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
