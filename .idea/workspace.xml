@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/WhichMethodsMustBeOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/IntBinaryOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585669357732</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="WhichMethodsMustBeOverriding solved">
+      <created>1585671670941</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585671670941</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +209,8 @@
     <MESSAGE value="Stream: ConvertToBytes solved" />
     <MESSAGE value="Stream: ReverseInputText solved" />
     <MESSAGE value="Stream: CountWords solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream: CountWords solved" />
+    <MESSAGE value="WhichMethodsMustBeOverriding solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhichMethodsMustBeOverriding solved" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585671175838">
@@ -215,11 +222,11 @@
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1585266682926" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585669357645">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585671670816">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577027071102" />
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585669357645" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585671670816" />
     <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585669069776">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
@@ -244,10 +251,10 @@
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="183" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1585267253636" />
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585669364804">
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585671676503">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585669364804" />
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585671676503" />
     <state x="368" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585521141517">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
