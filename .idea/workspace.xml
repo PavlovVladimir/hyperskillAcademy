@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39256451-1ef1-4fc3-a729-42797137826a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/absractclasses/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/interfaces/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hyperskilldev/interfaces/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
+        <option value="package-info" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585673153421</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="abstract classes: Shape solved">
+      <created>1585678754343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585678754343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,59 +227,55 @@
     <MESSAGE value="Stream: CountWords solved" />
     <MESSAGE value="WhichMethodsMustBeOverriding solved" />
     <MESSAGE value="abstract classes: IntBinaryOperation solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract classes: IntBinaryOperation solved" />
+    <MESSAGE value="abstract classes: Shape solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract classes: Shape solved" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585677552532">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585778960316">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577045564205" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.732@0.0.1366.732" timestamp="1585677552532" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.732@0.0.1366.732" timestamp="1585778960316" />
     <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585266682926">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="535" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1585266682926" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585673153328">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585678754148">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577027071102" />
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585673153328" />
-    <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585678582062">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585678754148" />
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom" timestamp="1585678910010">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585678582062" />
-    <state width="1298" height="160" key="GridCell.Tab.0.center" timestamp="1585678582061">
+    <state width="1298" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585678910010" />
+    <state width="1298" height="160" key="GridCell.Tab.0.center" timestamp="1585678910009">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585678582061" />
-    <state width="1298" height="160" key="GridCell.Tab.0.left" timestamp="1585678582061">
+    <state width="1298" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585678910009" />
+    <state width="1298" height="160" key="GridCell.Tab.0.left" timestamp="1585678910009">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585678582061" />
-    <state width="1298" height="160" key="GridCell.Tab.0.right" timestamp="1585678582062">
+    <state width="1298" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585678910009" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right" timestamp="1585678910010">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578127138898" />
-    <state width="1298" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585678582062" />
+    <state width="1298" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585678910010" />
     <state x="183" y="0" key="SettingsEditor" timestamp="1585267253636">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="183" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1585267253636" />
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585673158902">
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585678759291">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585673158902" />
-    <state x="368" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585521141517">
+    <state x="282" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.732@0.0.1366.732" timestamp="1585678759291" />
+    <state x="368" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585680538146">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="368" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1585521141517" />
-    <state x="413" y="119" key="extract.method.dialog" timestamp="1577003152082">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1577003152082" />
+    <state x="368" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1585680538146" />
   </component>
   <component name="regexState">
     <option name="map">
