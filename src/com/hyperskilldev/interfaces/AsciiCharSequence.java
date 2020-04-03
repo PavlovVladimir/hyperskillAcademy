@@ -19,7 +19,7 @@ public class AsciiCharSequence implements java.lang.CharSequence {
 
     @Override
     public CharSequence subSequence(int i, int i1) {
-        String str = new String(this.array).substring(i, i1);
+        String str = new String(this.array).substring(i, i1); //or can be used this: return new AsciiCharSequence(this.toString().substring(i, i1).getBytes());
         byte[] res = str.getBytes();
         return new AsciiCharSequence(res);
     }
