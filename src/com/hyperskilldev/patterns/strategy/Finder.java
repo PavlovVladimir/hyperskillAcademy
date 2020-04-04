@@ -71,6 +71,16 @@ class MinFindingStrategy implements FindingStrategy {
     }
 }
 
+//class MinFindingStrategy implements FindingStrategy {
+//
+//    public int getResult(int[] numbers) {
+//        return Arrays.stream(numbers)
+//                .min()
+//                .orElse(Integer.MAX_VALUE);
+//    }
+//}
+
+
 /* Do not change code below */
 class Main {
 
