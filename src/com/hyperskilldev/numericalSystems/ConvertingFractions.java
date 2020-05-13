@@ -8,11 +8,15 @@ public class ConvertingFractions {
 
     public static void main(String[] args) {
         Data data = new Data();
-        data.getDataFromCLI();
-        data.computeRadix();
-        data.computeDecimalVariables();
-        data.computeTargetVariables();
-        printNumber(data.targetNumber, data.targetFraction);
+        try {
+            data.getDataFromCLI();
+            data.computeRadix();
+            data.computeDecimalVariables();
+            data.computeTargetVariables();
+            printNumber(data.targetNumber, data.targetFraction);
+        } catch (Exception e) {
+            System.out.println("Error!! You have mistake in input! " + e);
+        }
     }
 
     public static void printNumber(String number, String fraction) {
@@ -60,13 +64,22 @@ class Data {
         }
     }
 
-    void computeRadix() {
+    void computeRadix() throws Exception {
         try {
             sourceRadix = Integer.parseInt(stringSourceRadix);
             targetRadix = Integer.parseInt(stringTargetRadix);
+            if (radixIsNotRight()) {
+                throw new Exception("Radix must be between 1 and 36");
+            }
         } catch (Exception e) {
             System.out.println("Your input was wrong: " + e);
+            throw new Exception("Radix must be between 1 and 36");
         }
+    }
+
+    private boolean radixIsNotRight() {
+        boolean b = sourceRadix < 1 || sourceRadix > 36 || targetRadix < 1 || targetRadix > 36;
+        return b;
     }
 
     public void computeDecimalVariables() {
